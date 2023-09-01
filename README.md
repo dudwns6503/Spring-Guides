@@ -9,3 +9,4 @@ Spring Guides를 보면서 실제 연습해보는 저장소입니다.
 6. [validating-form-input](https://github.com/dudwns6503/Spring-Guides/tree/main/validating-form-input) : https://spring.io/guides/gs/validating-form-input/
 7. [actuator-service](https://github.com/dudwns6503/Spring-Guides/tree/main/actuator-service) : https://spring.io/guides/gs/actuator-service/
 8. [batch-processing](https://github.com/dudwns6503/Spring-Guides/tree/main/batch-processing) : https://spring.io/guides/gs/batch-processing/
+9. [securing-web](https://github.com/dudwns6503/Spring-Guides/tree/main/securing-web) : https://spring.io/guides/gs/securing-web/
